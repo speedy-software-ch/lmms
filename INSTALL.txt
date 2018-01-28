@@ -2,6 +2,8 @@ Building LMMS got quite simple since 0.4.0 as everything is managed
 by cmake now. Therefore make sure you have CMake (>= 2.6.0 recommended) and
 then run
 
+test
+
 
 mkdir build
 cd build
